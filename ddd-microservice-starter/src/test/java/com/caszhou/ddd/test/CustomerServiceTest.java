@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import com.alibaba.cola.dto.Response;
 import com.caszhou.ddd.api.ICustomerService;
-import com.caszhou.ddd.dto.CustomerAddCmd;
+import com.caszhou.ddd.dto.cmd.CustomerAddCmd;
 import com.caszhou.ddd.dto.data.CustomerDto;
 import com.caszhou.ddd.dto.data.ErrorCode;
 

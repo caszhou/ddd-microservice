@@ -1,4 +1,4 @@
-package com.caszhou.ddd.dto;
+package com.caszhou.ddd.dto.cmd;
 
 import com.caszhou.ddd.dto.data.CustomerDto;
 

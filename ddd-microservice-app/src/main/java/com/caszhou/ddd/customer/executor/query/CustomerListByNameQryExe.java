@@ -6,8 +6,8 @@ import java.util.List;
 import org.springframework.stereotype.Component;
 
 import com.alibaba.cola.dto.MultiResponse;
-import com.caszhou.ddd.dto.CustomerListByNameQry;
 import com.caszhou.ddd.dto.data.CustomerDto;
+import com.caszhou.ddd.dto.query.CustomerListByNameQry;
 
 /**
  * @author caszhou

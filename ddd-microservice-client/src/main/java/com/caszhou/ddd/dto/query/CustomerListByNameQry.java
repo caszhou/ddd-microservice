@@ -1,4 +1,4 @@
-package com.caszhou.ddd.dto;
+package com.caszhou.ddd.dto.query;
 
 import com.alibaba.cola.dto.Query;
 

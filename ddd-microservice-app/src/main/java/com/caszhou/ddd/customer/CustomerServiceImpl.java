@@ -8,11 +8,11 @@ import com.alibaba.cola.catchlog.CatchAndLog;
 import com.alibaba.cola.dto.MultiResponse;
 import com.alibaba.cola.dto.Response;
 import com.caszhou.ddd.api.ICustomerService;
-import com.caszhou.ddd.customer.executor.CustomerAddCmdExe;
+import com.caszhou.ddd.customer.executor.cmd.CustomerAddCmdExe;
 import com.caszhou.ddd.customer.executor.query.CustomerListByNameQryExe;
-import com.caszhou.ddd.dto.CustomerAddCmd;
-import com.caszhou.ddd.dto.CustomerListByNameQry;
+import com.caszhou.ddd.dto.cmd.CustomerAddCmd;
 import com.caszhou.ddd.dto.data.CustomerDto;
+import com.caszhou.ddd.dto.query.CustomerListByNameQry;
 
 /**
  * @author caszhou

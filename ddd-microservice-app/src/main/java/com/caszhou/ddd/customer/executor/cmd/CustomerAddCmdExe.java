@@ -1,11 +1,11 @@
 
-package com.caszhou.ddd.customer.executor;
+package com.caszhou.ddd.customer.executor.cmd;
 
 import org.springframework.stereotype.Component;
 
 import com.alibaba.cola.dto.Response;
 import com.alibaba.cola.exception.BizException;
-import com.caszhou.ddd.dto.CustomerAddCmd;
+import com.caszhou.ddd.dto.cmd.CustomerAddCmd;
 import com.caszhou.ddd.dto.data.ErrorCode;
 
 /**

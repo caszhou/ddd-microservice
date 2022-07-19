@@ -5,9 +5,9 @@ import org.springframework.web.bind.annotation.*;
 import com.alibaba.cola.dto.MultiResponse;
 import com.alibaba.cola.dto.Response;
 import com.caszhou.ddd.api.ICustomerService;
-import com.caszhou.ddd.dto.CustomerAddCmd;
-import com.caszhou.ddd.dto.CustomerListByNameQry;
+import com.caszhou.ddd.dto.cmd.CustomerAddCmd;
 import com.caszhou.ddd.dto.data.CustomerDto;
+import com.caszhou.ddd.dto.query.CustomerListByNameQry;
 
 /**
  * @author caszhou
